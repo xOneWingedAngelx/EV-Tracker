@@ -1,11 +1,13 @@
-.pkmnsearch-wrapper{
+.pkmnsearch-bar{
             width: 100%;
             max-width: 700px;
-            background: rgba(173, 185, 209, 1);
+            background: rgba(173, 185, 209, 0.7);
+            outline-style: solid;
+            outline-color: rgb(82, 98, 128);
             display: flex;
             align-items: center;
             border-radius: 60px;
-            padding: 10px 20px;
+            padding: 20px 20px;
 }
 
 .pkmnsearch-bar input{
@@ -13,6 +15,9 @@
         flex: 1;
         border: 0;
         outline: none;
-        padding: 24px 20pxp;
+        padding: 5px 0px;
         font-size: 20;
+}
+::placeholder{
+        color: rgba(173, 185, 209);
 }
