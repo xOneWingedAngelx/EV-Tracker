@@ -23,3 +23,17 @@
 ::placeholder{
         color: rgba(173, 185, 209);
 }
+
+.pkmnsearch-bar{
+            width: 100%;
+            max-width: 700px;
+            background: rgba(173, 185, 209, 0.7);
+            outline-style: solid;
+            outline-color: rgb(82, 98, 128);
+            display: flex;
+            align-items: center;
+            width: 70%;
+            margin: auto;
+            border-radius: 60px;
+            padding: 30px 40px;
+}
