@@ -47,7 +47,7 @@
         outline: none;
         position: relative;
         top: 15px;
-        left: 80px;
+        left: 105px;
         font-size: 25;
 }
 
@@ -58,7 +58,7 @@
         outline: none;
         position: relative;
         left: 400px;
-        font-size: 15;
+        font-size: 20;
 }
 
 .pkmnlevelsel input{
