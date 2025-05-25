@@ -24,7 +24,7 @@
         color: rgba(173, 185, 209);
 }
 
-.pkmncurrenttrain{
+.pkmntgtlvl{
             width: 100%;
             max-width: 700px;
             background: rgba(173, 185, 209, 0.7);
@@ -40,7 +40,7 @@
             padding: 20px 30px;
 }
 
-.pkmncurrenttrain p{
+.pkmntgtlvl p{
         background: transparent;
         flex: 1;
         border: 0;
